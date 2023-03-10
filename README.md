@@ -1,6 +1,6 @@
 # Aloha-4-weather
 
-Le Morne spot
+Mauritius Le Morne spot forecast to do:
 
 - web widget
 - app widget
